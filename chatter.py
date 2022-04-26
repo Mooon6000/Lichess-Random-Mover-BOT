@@ -18,11 +18,11 @@ class Chatter:
         elif command == 'draw':
             return self.draw_message
         elif command == 'engine':
-            return "Random Mover 0.1"
+            return "Minic 3.06"
         elif command == 'eval':
             return lichess_game.last_message
         elif command == 'name':
-            return f'{lichess_game.username} running Random Mover 0.1'
+            return f'{lichess_game.username} running Minic 3.06'
         elif command == 'ram':
             return self.ram_message
         else command == 'help':
