@@ -32,7 +32,7 @@ Minic 3.06
 
 You're now connected to lichess and awaiting challenges! Your bot is up and ready! You can activate the matchmaking mode in your `startbot.sh` file.
 
-__CAUTION:__ Be careful with matchmaking mode, lichess will rate limit you if you let it run for too long!
+__CAUTION:__ Be careful with matchmaking mode, lichess will rate limit you if you let it run for too long! Also I guess you will not need to use this for the bot bacuse it's a random move engine.
 
 ## Lichess OAuth
 - Create an account for your bot on [Lichess.org](https://lichess.org/signup).
