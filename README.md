@@ -8,8 +8,7 @@ Not every function of the bot is extensively tested, a faulty or incomplete `con
 
 ### Chess Engines
 
-- [Stockfish](https://github.com/official-stockfish/Stockfish)
-- [Stockfish Multi Variant (dev)](https://github.com/ddugovic/Stockfish)
+Ramdom Mover engine
 
 ### Heroku Buildpack
 
