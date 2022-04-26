@@ -8,7 +8,7 @@ Not every function of the bot is extensively tested, a faulty or incomplete `con
 
 ### Chess Engines
 
-Ramdom Mover engine
+Minic 3.06
 
 ### Heroku Buildpack
 
