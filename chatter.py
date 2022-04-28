@@ -25,7 +25,7 @@ class Chatter:
             return f'{lichess_game.username} running Minic 3.06'
         elif command == 'ram':
             return self.ram_message
-        else command == 'help':
+        else
             return 'Supported commands: !cpu, !draw, !engine, !eval, !name, !ram'
 
     def _get_cpu(self) -> str:
